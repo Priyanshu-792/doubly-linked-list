@@ -12,7 +12,7 @@ int main()
 		scanf("%d",&a[i]);
 		
 	}
-	printf("\n Enter the element needed to searched in sorted order =");
+	printf("\n Enter the element needed to searched in sorted order... =");
 	scanf("%d",&x);
 	l=0,r=n-1;
 int index=bs(a,l,r,x);
